@@ -1,4 +1,4 @@
-### Boas vindas ao meu perfil :blue_heart
+### Boas vindas ao meu perfil 
 
 Meu nome é Natalia Araujo
 
@@ -6,9 +6,6 @@ Meu nome é Natalia Araujo
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
-
+### Você pode entrar em contato comigo : Gmail
 nataliaaraujo123n@gmail.com
 natalia.silva.araujo@escola.pr.gov.br
-
-![descrição do GIF](link GIF do Tenor) 
